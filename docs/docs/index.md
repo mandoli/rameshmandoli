@@ -9,7 +9,7 @@ Follow the tutorial to add an existing project or create a project from scratch.
 
 
 ## Features
-> How to use this project
+> How to use this projectfor my repo
 
 - **Follow the tutorial instructions**
     - Install and configure a new or existing project.
